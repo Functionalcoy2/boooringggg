@@ -1,0 +1,7 @@
+npm install --global http-server
+
+http-server
+
+npm start
+or
+npm i
